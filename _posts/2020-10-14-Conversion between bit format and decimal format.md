@@ -3,7 +3,30 @@ layout: post
 title: Conversion between bit-format and decimal format
 ---
 
-# Header
+We will talk about the conversion between bit-format and decimal format.
 
-Something
+# Contents
+
+[TOC]
+
+# 1. Introduction to float number
+
+
+
+
+
+
+
+
+
+
+
+
+# 2. Bit number to decimal number
+
+
+
+
+
+# 3. Decimal number to bit number
 
