@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Bug Fix]Support for password authentication was removed on August 13, 2021
+title: Support for password authentication was removed on August 13
 ---
 
 ## Problem Description
