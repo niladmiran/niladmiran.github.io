@@ -1,5 +1,7 @@
-# C++ static关键字
-
+---
+layout: post
+title: C++ static关键字
+---
 C++ static关键字有三种完全不同的用途：
 
 1. 表示一个静态存储器的变量，且具有internal linkage，即static变量
